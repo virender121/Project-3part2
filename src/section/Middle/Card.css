@@ -1,0 +1,18 @@
+.card{
+    min-height: 53vh;
+    width: 44vw;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    margin: 0 auto;
+    position: relative;
+    padding-top: 2rem;
+    border: 1px solid black;
+}
+.btn8{
+    display: flex;
+    justify-content: space-around;
+}
+.btn8:hover{
+    cursor: pointer;
+    color: red;
+}
+
